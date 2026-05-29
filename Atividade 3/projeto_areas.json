@@ -1,0 +1,158 @@
+{
+  "integracao": {
+    "tap": "Projeto: Sistema de Coaching Adolescente\nPatrocinador: Projeto pessoal\nObjetivo: Implementar ferramenta de resultados baseados em respostas em até 2 meses."
+  },
+  "escopo": {
+    "entregas": [
+      "Módulo de autenticação",
+      "Dashboard de perguntas",
+      "Encaminhamento de resultados para o coach"
+    ],
+    "atividades": [
+      "Levantamento de requisitos",
+      "Design de interface",
+      "Sistema de encaminhamento dos dados"
+    ]
+  },
+  "tempo": {
+    "cronograma": [
+      {
+        "atividade": "Definir escopo",
+        "responsavel": "Gabriel",
+        "validacao": "Aprovado pelo gestor",
+        "dataEntrega": "2026-06-05"
+      },
+      {
+        "atividade": "Desenvolvimento front-end",
+        "responsavel": "Bernardo",
+        "validacao": "Testes unitários",
+        "dataEntrega": "2025-06-15"
+      },
+      {
+        "atividade": "Implementação de código ",
+        "responsavel": "Gabriel ",
+        "validacao": "Aprovação do PO",
+        "dataEntrega": "2026-06-22"
+      },
+      {
+        "atividade": "Verificação de código e tratamento de bugs",
+        "responsavel": "Gabriel",
+        "validacao": "Desenvolvedores, clientes e gestor",
+        "dataEntrega": "2026-05-29"
+      }
+    ]
+  },
+  "partes": {
+    "stakeholders": [
+      {
+        "nome": "Glauciane (Gerente)",
+        "estrategia": "Reuniões semanais"
+      },
+      {
+        "nome": "Usuários finais",
+        "estrategia": "Workshops de co-criação"
+      },
+      {
+        "nome": "Professores ",
+        "estrategia": "Reuniões para opiniões e brainstorm"
+      }
+    ]
+  },
+  "rh": {
+    "equipe": [
+      {
+        "papel": "Product Owner",
+        "responsavel": "Gabriel",
+        "habilidades": "Visão de negócio"
+      },
+      {
+        "papel": "Dev Front-end",
+        "responsavel": "Bernardo",
+        "habilidades": "HTML/CSS/JS"
+      },
+      {
+        "papel": "Dev Back-end",
+        "responsavel": "Gabriel",
+        "habilidades": "Python/Análise de projetos"
+      }
+    ]
+  },
+  "comunicacao": {
+    "planoComunicacao": [
+      {
+        "canal": "Meet",
+        "frequencia": "Diários",
+        "responsavel": "Todos"
+      },
+      {
+        "canal": "E-mails",
+        "frequencia": "Semanais",
+        "responsavel": "Gabriel"
+      }
+    ]
+  },
+  "custos": {
+    "orcamentos": [
+      {
+        "atividade": "Pesquisa UX",
+        "equipe": 1200,
+        "materiais": 200,
+        "equipamentos": 300
+      },
+      {
+        "atividade": "Desenvolvimento",
+        "equipe": 5000,
+        "materiais": 0,
+        "equipamentos": 800
+      }
+    ]
+  },
+  "aquisicoes": {
+    "contratos": [
+      {
+        "fornecedor": "Cloud Solutions",
+        "objeto": "Hospedagem",
+        "status": "Em negociação"
+      }
+    ]
+  },
+  "riscos": {
+    "riscosLista": [
+      {
+        "descricao": "Atraso na aprovação",
+        "impacto": "Negativo",
+        "planoResposta": "Acionar plano de contingência"
+      },
+      {
+        "descricao": "Adoção de nova tecnologia acelera entrega",
+        "impacto": "Positivo",
+        "planoResposta": "Capacitar equipe"
+      },
+      {
+        "descricao": "Mudanças no fim do projeto",
+        "impacto": "Negativo",
+        "planoResposta": "Entrar em contato com a equipe e analisar se é possível implementar as mudanças dentro do prazo estipulado "
+      }
+    ]
+  },
+  "qualidade": {
+    "criterios": [
+      {
+        "metrica": "Cobertura de testes > 80%",
+        "aceitacao": "Todos os PRs aprovados"
+      },
+      {
+        "metrica": "Tempo de resposta < 2s",
+        "aceitacao": "Auditoria de performance"
+      },
+      {
+        "metrica": "Fluidez de animação entre perguntas (Entre 1s e 3s)",
+        "aceitacao": "Fluidez satisfatória"
+      },
+      {
+        "metrica": "Encaminhamento correto",
+        "aceitacao": "Cada coach/professor receber as respostas corretas de cada devido aluno"
+      }
+    ]
+  }
+}
