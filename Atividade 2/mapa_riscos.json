@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1780077374904,
+    "name": "🌩️ Tempestade danifica roteador de internet",
+    "prob": 3,
+    "impact": 4,
+    "response": "Planejar uma nuvem onde seja possível fazer backups a cada nova alteração e recuperá-los em caso de risco"
+  },
+  {
+    "id": 1780077483191,
+    "name": "🦷 Falta de açúcar no escritório",
+    "prob": 3,
+    "impact": 2,
+    "response": "Comprar uma quantidade de açúcar que possa suprir o resto do projeto"
+  },
+  {
+    "id": 1780077775503,
+    "name": "👨‍💼 Gerente de projetos sai da empresa",
+    "prob": 3,
+    "impact": 4,
+    "response": "Documentar os processos e o conhecimento entre outros membros do time."
+  },
+  {
+    "id": 1780078052800,
+    "name": "📉 Cliente reduz orçamento em 30% no meio do projeto",
+    "prob": 3,
+    "impact": 5,
+    "response": "Fazer um contrato antes do início do projeto com cláusulas que evitem esse tipo de problema"
+  },
+  {
+    "id": 1780078341711,
+    "name": "🐛 Bug crítico em produção no fim de semana",
+    "prob": 3,
+    "impact": 3,
+    "response": "Fazer gerenciamentos constantes e ter uma equipe mínima de plantão para esses casos"
+  },
+  {
+    "id": 1780078522144,
+    "name": "🏢 Fornecedor atrasa servidor em 2 semanas",
+    "prob": 3,
+    "impact": 4,
+    "response": "A equipe pode usar a folga, reorganizar as tarefas e procurar outro fornecedor ou uma nuvem temporária."
+  },
+  {
+    "id": 1780078593862,
+    "name": "🧠 Desenvolvedor júnior erra (retrabalho 3 dias)",
+    "prob": 4,
+    "impact": 3,
+    "response": "O erro pode ser reduzido com uma revisão do código, e testes antes da entrega"
+  },
+  {
+    "id": 1780078673486,
+    "name": "⚖️ Nova lei exige adaptações simples",
+    "prob": 1,
+    "impact": 2,
+    "response": "Priorizar os ajustes obrigatórios e manter contato com o jurídico para adaptar o que precisar no sistema"
+  },
+  {
+    "id": 1780078759927,
+    "name": "🏭 Incêndio destrói data center principal",
+    "prob": 2,
+    "impact": 5,
+    "response": "Ter backups em outra região e ter um plano para recuperar o que for mais importante primeiro."
+  },
+  {
+    "id": 1780078841127,
+    "name": "📱 Concorrente lança produto similar grátis",
+    "prob": 2,
+    "impact": 4,
+    "response": "Destacar os diferenciais do produto, melhorar o suporte e criar versões premium do produto para chamar atenção do público"
+  }
+]
